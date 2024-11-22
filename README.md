@@ -45,7 +45,7 @@ A: Silahkan request fitur kepada kami, kami akan menghadirkan fitur yang diingin
 # Informasi Penting
 - Informasi eBilling kami jelaskan pada repository berikut [Billing ISP](https://github.com/GMDP-Developers/Billing-ISP)
 - Ini adalah Aplikasi Android Tambahan yang kami fokuskan ke pelanggan, supaya tidak perlu lagi membuka website. Hanya cukup dengan Aplikasi Mobile
-- Kami akan rilis Aplikasi Mobile pada tanggal 1 Desember 2024
+- Kami akan rilis Aplikasi Mobile pada tanggal **___1 Desember 2024___**
 
 <table>
     <tr>
