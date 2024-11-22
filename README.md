@@ -24,21 +24,21 @@ A: Silahkan request fitur kepada kami, kami akan menghadirkan fitur yang diingin
     <tr>
         <td><img src='Assets/Login.png' width='700px'> Login </td>
         <td></td>
-        <td><img src='Assets/Home.png' width='400px'> Tampilan Utama </td>
+        <td><img src='Assets/Home.png' width='700px'> Tampilan Utama </td>
     </tr>
 </table>
 <table>
     <tr>
-        <td><img src='Assets/Payment.png' width='800px'> Detail Informasi Tagihan </td>
+        <td><img src='Assets/Payment.png' width='700px'> Detail Informasi Tagihan </td>
         <td></td>
-        <td><img src='Assets/Payment_list.png' width='800px'> Informasi Tagihan Berbagai Bulan </td>
+        <td><img src='Assets/Payment_list.png' width='700px'> Informasi Tagihan Berbagai Bulan </td>
     </tr>
 </table>
 <table>
     <tr>
-        <td><img src='Assets/Payment_method.png' width='800px'> Pilihan Metode Pembayaran </td>
+        <td><img src='Assets/Payment_method.png' width='700px'> Pilihan Metode Pembayaran </td>
         <td></td>
-        <td><img src='Assets/Payment_code.png' width='800px'> Kode Bayar </td>
+        <td><img src='Assets/Payment_code.png' width='700px'> Kode Bayar </td>
     </tr>
 </table>
 
