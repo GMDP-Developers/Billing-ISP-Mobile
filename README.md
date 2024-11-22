@@ -18,6 +18,30 @@ A: Kami akan segera menghadirkan ebilling versi public dengan harga yang terjang
 Q: Apakah fitur yang tersedia lengkap? </br>
 A: Silahkan request fitur kepada kami, kami akan menghadirkan fitur yang diinginkan pengguna secara gratis tanpa biaya tambahan </br>
 
+# Screenshoot
+#### Data yang kami tampilkan adalah data DUMMY atau PALSU
+<table>
+    <tr>
+        <td><img src='Assets/Login.png' width='700px'> Login </td>
+        <td></td>
+        <td><img src='Assets/Home.png' width='400px'> Tampilan Utama </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td><img src='Assets/Payment.png' width='800px'> Detail Informasi Tagihan </td>
+        <td></td>
+        <td><img src='Assets/Payment_list.png' width='800px'> Informasi Tagihan Berbagai Bulan </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td><img src='Assets/Payment_method.png' width='800px'> Pilihan Metode Pembayaran </td>
+        <td></td>
+        <td><img src='Assets/Payment_code.png' width='800px'> Kode Bayar </td>
+    </tr>
+</table>
+
 # Informasi Penting
 - Informasi eBilling kami jelaskan pada repository berikut [Billing ISP](https://github.com/GMDP-Developers/Billing-ISP)
 - Ini adalah Aplikasi Android Tambahan yang kami fokuskan ke pelanggan, supaya tidak perlu lagi membuka website. Hanya cukup dengan Aplikasi Mobile
