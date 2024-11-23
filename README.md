@@ -6,17 +6,9 @@
 # Apa ini?
 
 <h4 align="center">
-Aplikasi Berbasis Android dengan fitur Pembayaran Tagihan (bagi pelanggan) dan Pengelolaan Pelanggan (bagi penyedia jasa) untuk usaha INTERVET SERVICE PROVIDER / ISP dan Mitra ISP
+Aplikasi Berbasis Android dengan fitur Pembayaran Tagihan (bagi pelanggan) dan Pengelolaan Pelanggan (bagi penyedia jasa) untuk usaha INTERVET SERVICE PROVIDER (ISP)
 </h4>
 <br>
-
-# Pertanyaan
-Q: Berapa Harganya untuk saya bisa memakai ebilling? </br>
-A: <strong>GRATIS</strong>. dengan catatan, anda bermitra dengan <strong>PT. Global Media Data Prima</strong> </br>
-Q: Bagaimana jika saya tidak bermitra dengan <strong>PT. Global Media Data Prima</strong> </br>
-A: Kami akan segera menghadirkan ebilling versi public dengan harga yang terjangkau </br>
-Q: Apakah fitur yang tersedia lengkap? </br>
-A: Silahkan request fitur kepada kami, kami akan menghadirkan fitur yang diinginkan pengguna secara gratis tanpa biaya tambahan </br>
 
 # Screenshoot
 #### Data yang kami tampilkan adalah data DUMMY atau PALSU
@@ -60,5 +52,5 @@ A: Silahkan request fitur kepada kami, kami akan menghadirkan fitur yang diingin
 <!-- https://piclod.com/i/1703558312/Addicts_before_and_after_.png -->
 
 # Contact
-
+Jika pertanyaan Anda belum terjawab di sini, silakan hubungi kami melalui kontak yang tersedia!
 #### Silahkan Email ke `info@gmdp.net.id` atau `reno@gmdp.net.id` untuk informasi lebih lengkap
